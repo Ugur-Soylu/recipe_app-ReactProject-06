@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/recipe_app-ReactProject-06/static/css/main.bdc89184.chunk.css",
+    "main.js": "/recipe_app-ReactProject-06/static/js/main.ba4669db.chunk.js",
+    "main.js.map": "/recipe_app-ReactProject-06/static/js/main.ba4669db.chunk.js.map",
+    "runtime-main.js": "/recipe_app-ReactProject-06/static/js/runtime-main.a75264b7.js",
+    "runtime-main.js.map": "/recipe_app-ReactProject-06/static/js/runtime-main.a75264b7.js.map",
+    "static/js/2.a7efeea7.chunk.js": "/recipe_app-ReactProject-06/static/js/2.a7efeea7.chunk.js",
+    "static/js/2.a7efeea7.chunk.js.map": "/recipe_app-ReactProject-06/static/js/2.a7efeea7.chunk.js.map",
+    "static/js/3.ea1872ab.chunk.js": "/recipe_app-ReactProject-06/static/js/3.ea1872ab.chunk.js",
+    "static/js/3.ea1872ab.chunk.js.map": "/recipe_app-ReactProject-06/static/js/3.ea1872ab.chunk.js.map",
+    "index.html": "/recipe_app-ReactProject-06/index.html",
+    "static/css/main.bdc89184.chunk.css.map": "/recipe_app-ReactProject-06/static/css/main.bdc89184.chunk.css.map",
+    "static/js/2.a7efeea7.chunk.js.LICENSE.txt": "/recipe_app-ReactProject-06/static/js/2.a7efeea7.chunk.js.LICENSE.txt",
+    "static/media/coding.0ee2fc3a.svg": "/recipe_app-ReactProject-06/static/media/coding.0ee2fc3a.svg",
+    "static/media/default-image.b0a1da71.jpg": "/recipe_app-ReactProject-06/static/media/default-image.b0a1da71.jpg",
+    "static/media/diet.2f19967b.svg": "/recipe_app-ReactProject-06/static/media/diet.2f19967b.svg",
+    "static/media/home.1df754a9.svg": "/recipe_app-ReactProject-06/static/media/home.1df754a9.svg",
+    "static/media/meal2.8b3981f1.svg": "/recipe_app-ReactProject-06/static/media/meal2.8b3981f1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a75264b7.js",
+    "static/js/2.a7efeea7.chunk.js",
+    "static/css/main.bdc89184.chunk.css",
+    "static/js/main.ba4669db.chunk.js"
+  ]
+}
